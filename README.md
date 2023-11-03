@@ -2,8 +2,6 @@
 
 Explore the in-depth analysis of a digital marketing campaign aiming to uncover key insights. This project focuses on determining the saturation point, pinpointing overleveraged areas, and calculating the probability of achieving over 8 conversions per day. Using Excel and advanced statistical techniques.
 
-# Digital Marketing Campaign Analysis
-
 ## Overview
 
 This repository contains the analysis of a digital marketing campaign with the goal of understanding campaign performance, identifying areas of improvement, and assessing the likelihood of achieving specific conversion targets. The project leverages Excel and various statistical techniques to gain insights into the campaign's effectiveness.
